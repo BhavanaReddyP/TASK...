@@ -1,0 +1,5 @@
+transaction_id,date,category,amount,reason_for_anomaly
+TRX002,2024-06-01,Utilities,150.0,"Amount 150.0 is outside IQR bounds (138.75, 146.25)"
+TRX004,2024-06-02,Food,3000.0,"Amount 3000.0 is outside IQR bounds (22.5, 1512.5)"
+TRX006,2024-06-03,Utilities,135.0,"Amount 135.0 is outside IQR bounds (138.75, 146.25)"
+TRX007,2024-06-03,Food,20.0,"Amount 20.0 is outside IQR bounds (22.5, 1512.5)"
